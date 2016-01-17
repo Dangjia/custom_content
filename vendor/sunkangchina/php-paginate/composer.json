@@ -1,0 +1,24 @@
+{
+	"name": "sunkangchina/php-paginate",
+	"description": "Easy paginate",
+	"keywords": ["php55", "paginate", "route", "php paginate"],
+	"homepage": "https://github.com/sunkangchina/php-paginate",
+	"type": "library",
+	"license": "public domain",
+	"authors": [
+		{
+			"name": "Sun Kang",
+			"email": "sunkang@wstaichi.com"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/sunkangchina/php-paginate/issues?state=open",
+		"source": "https://github.com/sunkangchina/php-paginate"
+	},
+	"require": {
+		"php": ">=5.5.0" 
+	},
+	"autoload": {
+        "psr-4": { "sunkangchina\\phppaginate\\": "" }
+    }
+}

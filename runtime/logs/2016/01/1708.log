@@ -1,0 +1,560 @@
+[Info] no config setting key:admin_minify	 [2016-01-17 08:04:45]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:04:45]
+[Info] no config setting key:admin_title	 [2016-01-17 08:04:45]
+[Info] no config setting key:admin_title	 [2016-01-17 08:04:45]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:04:45]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:04:45]
+[Info] no config setting key:front_title	 [2016-01-17 08:04:49]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:04:49]
+[Info] no config setting key:home_index	 [2016-01-17 08:06:03]
+[Info] no config setting key:home_index	 [2016-01-17 08:06:03]
+[Info] no config setting key:front_title	 [2016-01-17 08:06:03]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:06:03]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:06:13]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:06:13]
+[Info] no config setting key:admin_title	 [2016-01-17 08:06:13]
+[Info] no config setting key:admin_title	 [2016-01-17 08:06:13]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:06:13]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:06:13]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:06:15]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:06:15]
+[Info] no config setting key:admin_title	 [2016-01-17 08:06:15]
+[Info] no config setting key:admin_title	 [2016-01-17 08:06:15]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:06:15]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:06:15]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:07:03]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:07:03]
+[System] Insert Collection: [config],Data:title=home_index ,value=<p>起合太极，学太极从青年开始。</p> ,status=1  IP: 127.0.0.1 User ID:567bb7681d9bda1b330041a8 UserName:admin	 [2016-01-17 08:07:03]
+[Info] no config setting key:home_index	 [2016-01-17 08:07:04]
+[Info] no config setting key:home_index	 [2016-01-17 08:07:04]
+[Info] no config setting key:front_title	 [2016-01-17 08:07:04]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:07:04]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:07:36]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:07:36]
+[System] Insert Collection: [config],Data:title=home_index_value ,value=<p>吴式太极</p> ,status=1  IP: 127.0.0.1 User ID:567bb7681d9bda1b330041a8 UserName:admin	 [2016-01-17 08:07:36]
+[Info] no config setting key:home_index	 [2016-01-17 08:07:38]
+[Info] no config setting key:home_index_value	 [2016-01-17 08:07:38]
+[Info] no config setting key:front_title	 [2016-01-17 08:07:38]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:07:38]
+[Info] no config setting key:home_index	 [2016-01-17 08:07:50]
+[Info] no config setting key:home_index_value	 [2016-01-17 08:07:50]
+[Info] no config setting key:front_title	 [2016-01-17 08:07:50]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:07:50]
+[Info] no config setting key:front_title	 [2016-01-17 08:08:03]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:08:03]
+[Info] no config setting key:front_title	 [2016-01-17 08:08:05]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:08:05]
+[Info] no config setting key:front_title	 [2016-01-17 08:08:06]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:08:06]
+[Info] no config setting key:front_title	 [2016-01-17 08:08:12]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:08:12]
+[Info] no config setting key:front_title	 [2016-01-17 08:08:13]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:08:13]
+[Info] no config setting key:front_title	 [2016-01-17 08:08:14]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:08:14]
+[Info] no config setting key:front_title	 [2016-01-17 08:08:15]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:08:15]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:08:19]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:19]
+[Info] no config setting key:admin_title	 [2016-01-17 08:08:19]
+[Info] no config setting key:admin_title	 [2016-01-17 08:08:19]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:19]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:19]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:08:22]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:22]
+[Info] no config setting key:admin_title	 [2016-01-17 08:08:22]
+[Info] no config setting key:admin_title	 [2016-01-17 08:08:22]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:22]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:22]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:08:36]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:36]
+[Info] no config setting key:admin_title	 [2016-01-17 08:08:36]
+[Info] no config setting key:admin_title	 [2016-01-17 08:08:36]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:36]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:36]
+[Info] no config setting key:admin_title	 [2016-01-17 08:08:36]
+[Info] no config setting key:admin_title	 [2016-01-17 08:08:36]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:36]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:36]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:08:42]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:42]
+[System] Update  Collection: [category],Condition: _id=567bee331d9bda1b330041aa  Data:title=视频 ,slug=video ,pid=0 ,status=1 ,updated=0.06000000 1452989323  IP: 127.0.0.1 User ID:567bb7681d9bda1b330041a8 UserName:admin	 [2016-01-17 08:08:43]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:08:45]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:45]
+[Info] no config setting key:admin_title	 [2016-01-17 08:08:45]
+[Info] no config setting key:admin_title	 [2016-01-17 08:08:45]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:45]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:45]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:08:48]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:48]
+[Info] no config setting key:admin_title	 [2016-01-17 08:08:48]
+[Info] no config setting key:admin_title	 [2016-01-17 08:08:48]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:48]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:48]
+[Info] no config setting key:admin_title	 [2016-01-17 08:08:48]
+[Info] no config setting key:admin_title	 [2016-01-17 08:08:48]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:48]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:08:48]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:10:47]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:10:47]
+[System] Insert Collection: [posts],Data:title=八卦 ,category=567bee331d9bda1b330041aa ,body=<iframe height=498 width=510 src="http://player.youku.com/embed/XMzE1MDc4OTY0" frameborder=0 allowfullscreen></iframe> ,slug=ew ,status=1  IP: 127.0.0.1 User ID:567bb7681d9bda1b330041a8 UserName:admin	 [2016-01-17 08:10:47]
+[Info] no config setting key:front_title	 [2016-01-17 08:10:54]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:10:54]
+[Info] no config setting key:front_title	 [2016-01-17 08:10:57]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:10:57]
+[Info] no config setting key:front_title	 [2016-01-17 08:11:11]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:11:11]
+[Info] no config setting key:front_title	 [2016-01-17 08:11:22]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:11:22]
+[Info] no config setting key:front_title	 [2016-01-17 08:11:24]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:11:24]
+[Info] no config setting key:front_title	 [2016-01-17 08:11:26]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:11:26]
+[Info] no config setting key:front_title	 [2016-01-17 08:21:36]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:21:36]
+[Info] no config setting key:front_title	 [2016-01-17 08:21:43]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:21:43]
+[Info] no config setting key:front_title	 [2016-01-17 08:21:45]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:21:45]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:21:50]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:21:50]
+[Info] no config setting key:admin_title	 [2016-01-17 08:21:50]
+[Info] no config setting key:admin_title	 [2016-01-17 08:21:50]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:21:50]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:21:50]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:21:52]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:21:52]
+[Info] no config setting key:admin_title	 [2016-01-17 08:21:52]
+[Info] no config setting key:admin_title	 [2016-01-17 08:21:52]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:21:52]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:21:52]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:21:54]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:21:54]
+[Info] no config setting key:admin_title	 [2016-01-17 08:21:54]
+[Info] no config setting key:admin_title	 [2016-01-17 08:21:54]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:21:54]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:21:54]
+[Info] no config setting key:admin_title	 [2016-01-17 08:21:54]
+[Info] no config setting key:admin_title	 [2016-01-17 08:21:54]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:21:54]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:21:54]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:22:01]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:01]
+[System] Update  Collection: [posts],Condition: _id=56960d4d1d9bda69670041c5  Data:file=Array ,title=起合太极文化 ,category=567beb2b1d9bda1b330041a9 ,body=<h2>How to use this layout</h2>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To use this layout, you can just copy paste the HTML, along with the CSS in <a href="/css/layouts/side-menu.css">side-menu.css</a>, and the JavaScript in <a href="/js/ui.js">ui.js</a>. The JS file uses vanilla JavaScript to simply toggle an <code>active</code> class that makes the menu responsive. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<h2>Now Let&#39;s Speak Some Latin</h2>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<div class="pure-g">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<div class="pure-u-1-4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Peyto Lake" class="pure-img-responsive" src="http://farm3.staticflickr.com/2875/9069037713_1752f5daeb.jpg" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+<div class="pure-u-1-4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Train" class="pure-img-responsive" src="http://farm3.staticflickr.com/2813/9069585985_80da8db54f.jpg" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+<div class="pure-u-1-4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="T-Shirt Store" class="pure-img-responsive" src="http://farm6.staticflickr.com/5456/9121446012_c1640e42d0.jpg" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+<div class="pure-u-1-4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Mountain" class="pure-img-responsive" src="http://farm8.staticflickr.com/7357/9086701425_fda3024927.jpg" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<h2>Try Resizing your Browser</h2>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p> ,slug=home ,status=1 ,updated=0.99400000 1452990121  IP: 127.0.0.1 User ID:567bb7681d9bda1b330041a8 UserName:admin	 [2016-01-17 08:22:01]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:22:03]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:03]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:03]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:03]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:03]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:03]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:22:06]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:06]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:06]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:06]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:06]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:06]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:06]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:06]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:06]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:06]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:22:10]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:10]
+[System] Update  Collection: [posts],Condition: _id=56960bd71d9bda741d0041a8  Data:file=Array ,title=起合太极文化 ,category=567beb2b1d9bda1b330041a9 ,body=<p>&nbsp;</p>
+
+<h2>How to use this layout</h2>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To use this layout, you can just copy paste the HTML, along with the CSS in <a href="/css/layouts/side-menu.css">side-menu.css</a>, and the JavaScript in <a href="/js/ui.js">ui.js</a>. The JS file uses vanilla JavaScript to simply toggle an <code>active</code> class that makes the menu responsive.</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<h2>Now Let&#39;s Speak Some Latin</h2>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<div class="pure-g">
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<div class="pure-u-1-4">
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Peyto Lake" class="pure-img-responsive" src="http://farm3.staticflickr.com/2875/9069037713_1752f5daeb.jpg" /></p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<div class="pure-u-1-4">
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Train" class="pure-img-responsive" src="http://farm3.staticflickr.com/2813/9069585985_80da8db54f.jpg" /></p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<div class="pure-u-1-4">
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="T-Shirt Store" class="pure-img-responsive" src="http://farm6.staticflickr.com/5456/9121446012_c1640e42d0.jpg" /></p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<div class="pure-u-1-4">
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Mountain" class="pure-img-responsive" src="http://farm8.staticflickr.com/7357/9086701425_fda3024927.jpg" /></p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<h2>Try Resizing your Browser</h2>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>&nbsp;</p> ,slug=home ,status=1 ,updated=0.72400000 1452990130  IP: 127.0.0.1 User ID:567bb7681d9bda1b330041a8 UserName:admin	 [2016-01-17 08:22:10]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:22:12]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:12]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:12]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:12]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:12]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:12]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:22:15]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:15]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:15]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:15]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:15]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:15]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:15]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:15]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:15]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:15]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:22:17]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:17]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:17]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:17]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:17]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:17]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:22:19]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:19]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:19]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:19]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:19]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:19]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:19]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:19]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:19]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:19]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:22:21]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:21]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:21]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:21]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:21]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:21]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:22:22]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:22]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:22]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:22]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:22]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:22]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:22]
+[Info] no config setting key:admin_title	 [2016-01-17 08:22:22]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:22]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:22:22]
+[Info] no config setting key:front_title	 [2016-01-17 08:22:25]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:22:25]
+[Info] no config setting key:front_title	 [2016-01-17 08:22:32]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:22:32]
+[Info] no config setting key:front_title	 [2016-01-17 08:23:56]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:23:56]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:24:01]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:24:01]
+[Info] no config setting key:admin_title	 [2016-01-17 08:24:01]
+[Info] no config setting key:admin_title	 [2016-01-17 08:24:01]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:24:01]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:24:01]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:29:56]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:29:56]
+[Info] no config setting key:admin_title	 [2016-01-17 08:29:56]
+[Info] no config setting key:admin_title	 [2016-01-17 08:29:56]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:29:56]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:29:56]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:29:58]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:29:58]
+[Info] no config setting key:admin_title	 [2016-01-17 08:29:58]
+[Info] no config setting key:admin_title	 [2016-01-17 08:29:58]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:29:58]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:29:58]
+[Info] no config setting key:admin_title	 [2016-01-17 08:29:58]
+[Info] no config setting key:admin_title	 [2016-01-17 08:29:58]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:29:58]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:29:58]
+[Info] no config setting key:front_title	 [2016-01-17 08:30:01]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:30:01]
+[Info] no config setting key:front_title	 [2016-01-17 08:30:02]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:30:02]
+[Info] no config setting key:front_title	 [2016-01-17 08:30:03]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:30:03]
+[Info] no config setting key:front_title	 [2016-01-17 08:30:08]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:30:08]
+[Info] no config setting key:front_title	 [2016-01-17 08:30:09]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:30:09]
+[Info] no config setting key:home_index	 [2016-01-17 08:30:10]
+[Info] no config setting key:home_index_value	 [2016-01-17 08:30:10]
+[Info] no config setting key:front_title	 [2016-01-17 08:30:10]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:30:10]
+[Info] no config setting key:front_title	 [2016-01-17 08:30:14]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:30:14]
+[Info] no config setting key:front_title	 [2016-01-17 08:30:17]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:30:17]
+[Info] no config setting key:front_title	 [2016-01-17 08:30:19]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:30:19]
+[Info] no config setting key:front_title	 [2016-01-17 08:30:19]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:30:19]
+[Info] no config setting key:front_title	 [2016-01-17 08:30:21]
+[Info] no config setting key:front_title_logo	 [2016-01-17 08:30:21]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:30:29]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:30:29]
+[Info] no config setting key:admin_title	 [2016-01-17 08:30:29]
+[Info] no config setting key:admin_title	 [2016-01-17 08:30:29]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:30:29]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:30:29]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:35:49]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:35:49]
+[Info] no config setting key:admin_title	 [2016-01-17 08:35:49]
+[Info] no config setting key:admin_title	 [2016-01-17 08:35:49]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:35:49]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:35:49]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:37:01]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:37:01]
+[Info] no config setting key:admin_title	 [2016-01-17 08:37:01]
+[Info] no config setting key:admin_title	 [2016-01-17 08:37:01]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:37:01]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:37:01]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:37:22]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:37:22]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:41:26]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:41:26]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:41:28]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:41:28]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:42:26]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:42:26]
+[Info] no config setting key:admin_title	 [2016-01-17 08:42:26]
+[Info] no config setting key:admin_title	 [2016-01-17 08:42:26]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:42:26]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:42:26]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:49:32]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:32]
+[Info] no config setting key:admin_title	 [2016-01-17 08:49:32]
+[Info] no config setting key:admin_title	 [2016-01-17 08:49:32]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:32]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:32]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:49:42]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:42]
+[Info] no config setting key:admin_title	 [2016-01-17 08:49:42]
+[Info] no config setting key:admin_title	 [2016-01-17 08:49:42]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:42]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:42]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:49:43]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:43]
+[Info] no config setting key:admin_title	 [2016-01-17 08:49:43]
+[Info] no config setting key:admin_title	 [2016-01-17 08:49:43]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:43]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:43]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:49:55]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:55]
+[Info] no config setting key:admin_title	 [2016-01-17 08:49:55]
+[Info] no config setting key:admin_title	 [2016-01-17 08:49:55]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:55]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:55]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:49:56]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:56]
+[Info] no config setting key:admin_title	 [2016-01-17 08:49:56]
+[Info] no config setting key:admin_title	 [2016-01-17 08:49:56]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:56]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:56]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:49:57]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:57]
+[Info] no config setting key:admin_title	 [2016-01-17 08:49:57]
+[Info] no config setting key:admin_title	 [2016-01-17 08:49:57]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:57]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:49:57]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:50:03]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:03]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:03]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:03]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:03]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:03]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:50:04]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:04]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:04]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:04]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:04]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:04]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:50:05]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:05]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:05]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:05]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:05]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:05]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:50:06]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:06]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:06]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:06]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:06]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:06]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:50:06]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:06]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:06]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:06]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:06]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:06]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:50:07]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:07]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:07]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:07]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:07]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:07]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:50:16]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:16]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:50:20]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:20]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:20]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:50:42]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:42]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:42]
+[Info] no config setting key:admin_title	 [2016-01-17 08:50:42]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:42]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:50:42]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:56:34]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:56:34]
+[Info] no config setting key:admin_title	 [2016-01-17 08:56:34]
+[Info] no config setting key:admin_title	 [2016-01-17 08:56:34]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:56:34]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:56:34]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:56:36]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:56:36]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:57:47]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:57:47]
+[Info] no config setting key:admin_title	 [2016-01-17 08:57:47]
+[Info] no config setting key:admin_title	 [2016-01-17 08:57:47]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:57:47]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:57:47]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:57:48]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:57:48]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:58:39]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:58:39]
+[Info] no config setting key:admin_title	 [2016-01-17 08:58:39]
+[Info] no config setting key:admin_title	 [2016-01-17 08:58:39]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:58:39]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:58:39]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:58:40]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:58:40]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:59:32]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:59:32]
+[Info] no config setting key:admin_title	 [2016-01-17 08:59:32]
+[Info] no config setting key:admin_title	 [2016-01-17 08:59:32]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:59:32]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:59:32]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:59:33]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:59:33]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:59:48]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:59:48]
+[Info] no config setting key:admin_title	 [2016-01-17 08:59:48]
+[Info] no config setting key:admin_title	 [2016-01-17 08:59:48]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:59:48]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:59:48]
+[Info] no config setting key:admin_minify	 [2016-01-17 08:59:48]
+[Info] no config setting key:admin_theme	 [2016-01-17 08:59:48]

@@ -1,0 +1,36 @@
+{
+	"require": {
+		"php": ">=5.5",
+		
+		"sunkangchina/php-router": "^1.2",
+		"sunkangchina/php-paginate": "^1.0",
+		"sunkangchina/php-log": "^1.0",
+		"sunkangchina/php-pdo": "^1.2",
+		"sunkangchina/php-view": "^1.1",
+		"sunkangchina/php-file": "^1.0",
+		
+		"alexgarrett/violin": "^2.2",
+		"mawelous/yamop": "^0.2.1",
+		"fzaninotto/faker": "^1.5",
+		
+		
+		"dflydev/apache-mime-types": "^1.0",
+		"guzzlehttp/guzzle": "^6.1",
+		"phpmailer/phpmailer": "^5.2",
+		"league/oauth2-client": "^1.1",
+		"twbs/bootstrap": "^3.3",
+		"intervention/image": "^2.3",
+		"intervention/gif": "^0.5.0",
+		"nesbot/carbon": "^1.21",
+		"overtrue/pinyin": "^2.6",
+		"symfony/yaml": "^3.0"
+		
+		
+	},
+	"require-dev": {
+		"mikey179/vfsStream": "1.1.*"
+	},
+	"autoload": { 		 
+		"psr-4": {"": "project/"} 
+	}  
+}

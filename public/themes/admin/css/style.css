@@ -1,0 +1,118 @@
+@CHARSET "UTF-8";
+#submit{
+	
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border: 0px;
+    outline: none;
+    background: none;
+}
+.container{
+	
+    position: relative;
+	
+}
+table caption a{
+	margin-right:30px;
+}
+ 
+a，table a:not(.btn), .table a:not(.btn){
+text-decoration:none;
+}
+.pull-right a{
+	margin-right:30px;
+	//color:#000;
+}
+
+.page_message {
+    -webkit-background-size: 40px 40px;
+    -moz-background-size: 40px 40px;
+    background-size: 40px 40px;
+    -moz-box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.4);
+    -webkit-box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.4);
+    box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.4);
+    font-size: 16px;
+    overflow: visible;
+    text-align: center;
+    left: 0;
+    top: 0;
+    z-index: 10001;
+    width: 100%;
+    border: 1px solid;
+    color: #fff;
+    padding: 15px;
+    position: fixed;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+}
+
+.page_mess_ok {
+    background-color: #48bb5e;
+    border-color: #309343;
+}
+.page_mess_error {
+    background-color: #de4343;
+    border-color: #c43d3d;
+}
+ 
+
+.ui-autocomplete-loading {
+    background: white url("/misc/loading.gif") right center no-repeat;
+  }
+  
+  		td .fa{
+			margin-left:20px;
+		}
+		.pager {
+  padding-left: 0;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  list-style: none;
+}
+
+.pagination::after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.pagination li {
+  display: inline;
+}
+
+.pagination li > a,
+.pagination li > span {
+  display: inline-block;
+  padding: 5px 14px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+}
+
+.pagination li > a:focus, .pagination li > a:hover {
+  text-decoration: none;
+  background-color: #eceeef;
+}
+
+.pagination .disabled > a, .pagination .disabled > a:focus, .pagination .disabled > a:hover {
+  color: #818a91;
+  cursor: not-allowed;
+  background-color: #fff;
+}
+
+.pagination .disabled > span {
+  color: #818a91;
+  cursor: not-allowed;
+  background-color: #fff;
+}
+
+.pagination-next > a,
+.pagination-next > span {
+  float: right;
+}
+
+.pagination-prev > a,
+.pagination-prev > span {
+  float: left;
+}

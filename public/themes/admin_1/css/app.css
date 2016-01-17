@@ -1,0 +1,68 @@
+ 
+.main{
+	
+    position: relative;
+	
+}
+		td .fa{
+			margin-left:20px;
+		}
+		.pager {
+  padding-left: 0;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  list-style: none;
+}
+
+.pagination::after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.pagination li {
+  display: inline;
+}
+
+.pagination li > a,
+.pagination li > span {
+  display: inline-block;
+  padding: 5px 14px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+}
+
+.pagination li > a:focus, .pagination li > a:hover {
+  text-decoration: none;
+  background-color: #eceeef;
+}
+
+.pagination .disabled > a, .pagination .disabled > a:focus, .pagination .disabled > a:hover {
+  color: #818a91;
+  cursor: not-allowed;
+  background-color: #fff;
+}
+
+.pagination .disabled > span {
+  color: #818a91;
+  cursor: not-allowed;
+  background-color: #fff;
+}
+
+.pagination-next > a,
+.pagination-next > span {
+  float: right;
+}
+
+.pagination-prev > a,
+.pagination-prev > span {
+  float: left;
+}
+caption {
+    caption-side: top;
+}
+.table th, .table td {
+    padding-left: 0px;
+}

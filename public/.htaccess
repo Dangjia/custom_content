@@ -1,0 +1,13 @@
+RewriteEngine On
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteRule ^(.*)$ index.php/$1 [L]
+ 
+ 
+
+
+
+RewriteCond %{REQUEST_FILENAME} !\.(jpg|jpeg|png|gif|bmp)$ 
+RewriteRule /upload/thumb/(.*)$ /image/home/index?id=/thumb/$1 [NC,R,L]   

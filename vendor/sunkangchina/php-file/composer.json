@@ -1,0 +1,24 @@
+{
+	"name": "sunkangchina/php-file",
+	"description": "Easy file ",
+	"keywords": ["php55", "file"],
+	"homepage": "https://github.com/sunkangchina/php-file",
+	"type": "library",
+	"license": "public domain",
+	"authors": [
+		{
+			"name": "Sun Kang",
+			"email": "sunkang@wstaichi.com"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/sunkangchina/php-file/issues?state=open",
+		"source": "https://github.com/sunkangchina/php-file"
+	},
+	"require": {
+		"php": ">=5.5.0" 
+	},
+	"autoload": {
+        "psr-4": { "sunkangchina\\phpfile\\": "" }
+    }
+}

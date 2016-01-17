@@ -1,0 +1,9 @@
+ $(function(){
+	 $("select[name='status']").attr('style','width:120px;');
+	 $('#AdminThemeTryChangeCSS').change(function(){
+		 $('#choiceTheme').submit();
+	 });
+	 $('#AdminThemeTryChange').change(function(){
+		 $('#choiceTheme2').submit();
+	 });
+ });
